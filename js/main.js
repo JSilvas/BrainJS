@@ -32,4 +32,3 @@ function execute(input) {
 train(trainingData);
 
 console.log(execute("These aren't real. Kanye would never write Yeezy on the side"));
-fLKJOOlaldsjodlkj
